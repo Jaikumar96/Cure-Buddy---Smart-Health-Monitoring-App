@@ -142,8 +142,3 @@ flutter run
 
 > Make sure Android Studio or a device emulator is set up for running the Flutter app.
 
----
-
-## 📝 License
-
-This project is open-source and available under the [MIT License](LICENSE).
