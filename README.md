@@ -54,7 +54,7 @@ Cure-Buddy---Smart-Health-Monitoring-App/
 
 Watch a quick walkthrough of the Cure Buddy app:
 
-[Click here to view the demo video](./assets/demo/demo.mp4)
+[Click here to view the demo video]((https://drive.google.com/file/d/1hnP8SQmQVJn9lgajtoivbw4Y1mcHJ4rZ/view?usp=drive_link))
 
 
 
