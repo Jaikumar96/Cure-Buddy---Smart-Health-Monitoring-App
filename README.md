@@ -1,6 +1,8 @@
 # Cure Buddy – Smart Health Monitoring App 🩺📱
 
-**Cure Buddy** is a smart health monitoring application built using Java (Spring Boot) for the backend and Flutter for the frontend. It enables users to schedule health checkups, analyze medical reports, receive personalized health tips, and find nearby healthcare services with ease.
+**Cure Buddy** is a smart health monitoring application built using Java (Spring Boot) for the backend and Flutter for the frontend. 
+It enables users to schedule health checkups, analyze medical reports, receive personalized health tips, and find nearby healthcare
+services with ease.
 
 ---
 
@@ -48,6 +50,13 @@ Cure-Buddy---Smart-Health-Monitoring-App/
 └── README.md              # Project documentation
 
 ````
+## 🎥 Demo
+
+Watch a quick walkthrough of the Cure Buddy app:
+
+[Click here to view the demo video](./assets/demo/demo.mp4)
+
+
 
 ---
 
@@ -94,6 +103,17 @@ GOOGLE_MAPS_API_KEY_IOS=<>
 # You can also put your backend API base URL here if you haven't already
 API_BASE_URL=http://192.168.252.250:8080/api
 ````
+Ensure the `frontend\android\local.properties` Flutter includes
+```
+sdk.dir=C:\\Users\\admin\\AppData\\Local\\Android\\sdk
+flutter.sdk=C:\\flutter\\src\\flutter
+flutter.buildMode=debug
+flutter.versionName=1.0.0
+flutter.versionCode=1
+
+# Add your Google Maps API Key for Android here.
+GOOGLE_MAPS_API_KEY_ANDROID=<>
+```
 Ensure the `.env` file in the Spring-boot backend includes:
 ```env
 # Flutter .env file
