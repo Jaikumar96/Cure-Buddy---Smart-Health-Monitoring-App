@@ -50,13 +50,11 @@ Cure-Buddy---Smart-Health-Monitoring-App/
 └── README.md              # Project documentation
 
 ````
-## 🎥 Demo
+## 🎥 Demo Video
 
-Watch a quick walkthrough of the Cure Buddy app:
+Watch a 6-minute walkthrough of **Cure Buddy – Smart Health Monitoring App** 
 
-[Click here to view the demo video]((https://drive.google.com/file/d/1hnP8SQmQVJn9lgajtoivbw4Y1mcHJ4rZ/view?usp=drive_link))
-
-
+▶️ [Click here to watch the demo video](https://drive.google.com/file/d/1hnP8SQmQVJn9lgajtoivbw4Y1mcHJ4rZ/view?usp=drive_link)
 
 ---
 
