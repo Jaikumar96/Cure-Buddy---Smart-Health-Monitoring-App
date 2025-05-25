@@ -1,0 +1,14 @@
+------ Cure Buddy Health Summary ------
+Patient: jack@example.com
+Date Range: 2025-04-01 to 2025-04-28
+Report Generated: 2025-05-11T21:29:41.644172200
+
+Health Reports:
+• 2025-04-27 — Risk: CRITICAL
+• 2025-04-27 — Risk: CRITICAL
+
+Recommendation:
+⚠️ Please consult your doctor immediately. One or more critical entries detected.
+
+Stay healthy,
+Team Cure Buddy

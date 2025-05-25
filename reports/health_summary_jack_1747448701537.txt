@@ -1,0 +1,40 @@
+============================================================
+            CURE BUDDY - CONFIDENTIAL HEALTH SUMMARY
+============================================================
+
+PATIENT IDENTIFIER:
+  Email: jack@example.com
+
+REPORT METADATA:
+  Reporting Period: 2025-04-17 to 2025-05-17
+  Report Generated On: 2025-05-17 07:55:01
+  Total Entries Reviewed: 1
+
+SUMMARY OF FINDINGS:
+  Overall Assessment: STABLE / LOW RISK
+  - Health entries for this period are generally within acceptable limits.
+
+DETAILED HEALTH ENTRIES LOG:
+-------------------------------------------------
+| Entry Date   | Time       | Risk Level      |
+|--------------|------------|-----------------|
+| 2025-05-17   | 07:50:31   | null            |
+-------------------------------------------------
+
+RECOMMENDATIONS & GUIDANCE:
+  ✅ Your health entries for this period are within normal or low-risk limits.
+     Continue to maintain healthy lifestyle habits and follow routine medical advice.
+  - Always follow the specific advice given by your personal physician or healthcare provider.
+
+------------------------------------------------------------
+IMPORTANT DISCLAIMER:
+This summary is generated based on data provided to Cure Buddy and is for
+informational purposes only. It DOES NOT constitute medical advice, diagnosis,
+or treatment. Always seek the advice of your physician or other qualified
+health provider with any questions you may have regarding a medical condition.
+Never disregard professional medical advice or delay in seeking it because
+of something you have read in this summary.
+------------------------------------------------------------
+
+Sincerely,
+The Cure Buddy Team

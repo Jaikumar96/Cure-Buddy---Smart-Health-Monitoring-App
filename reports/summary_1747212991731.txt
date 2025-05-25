@@ -1,0 +1,46 @@
+------ Cure Buddy Health Summary ------
+Patient: jack@example.com
+Date Range: 2025-04-14 to 2025-05-14
+Report Generated: 2025-05-14T14:26:31.746437200
+
+Health Reports:
+• 2025-04-27 — Risk: CRITICAL
+• 2025-04-27 — Risk: CRITICAL
+• 2025-05-03 — Risk: null
+• 2025-05-03 — Risk: null
+• 2025-05-03 — Risk: null
+• 2025-05-03 — Risk: null
+• 2025-05-03 — Risk: null
+• 2025-05-03 — Risk: null
+• 2025-05-03 — Risk: null
+• 2025-05-03 — Risk: null
+• 2025-05-03 — Risk: null
+• 2025-05-03 — Risk: null
+• 2025-05-03 — Risk: null
+• 2025-05-03 — Risk: null
+• 2025-05-03 — Risk: null
+• 2025-05-03 — Risk: null
+• 2025-05-03 — Risk: null
+• 2025-05-03 — Risk: null
+• 2025-05-03 — Risk: null
+• 2025-05-03 — Risk: null
+• 2025-05-03 — Risk: null
+• 2025-05-03 — Risk: null
+• 2025-05-03 — Risk: null
+• 2025-05-03 — Risk: null
+• 2025-05-03 — Risk: null
+• 2025-05-04 — Risk: null
+• 2025-05-11 — Risk: null
+• 2025-05-11 — Risk: null
+• 2025-05-11 — Risk: null
+• 2025-05-11 — Risk: null
+• 2025-05-11 — Risk: null
+• 2025-05-11 — Risk: null
+• 2025-05-11 — Risk: null
+• 2025-05-11 — Risk: null
+
+Recommendation:
+?? Please consult your doctor immediately. One or more critical entries detected.
+
+Stay healthy,
+Team Cure Buddy
