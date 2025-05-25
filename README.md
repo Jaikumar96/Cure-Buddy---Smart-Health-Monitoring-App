@@ -142,3 +142,13 @@ flutter run
 
 > Make sure Android Studio or a device emulator is set up for running the Flutter app.
 
+
+📌 Final Note
+
+Cure Buddy is designed to make health monitoring smarter, easier, and more accessible for everyone. Whether you're a patient tracking regular checkups or a doctor managing multiple cases, this app bridges the gap with intelligent features and seamless user experience.
+
+We hope this project contributes to building a healthier, more connected future. Contributions, suggestions, and feedback are always welcome!
+
+Stay healthy!
+
+
